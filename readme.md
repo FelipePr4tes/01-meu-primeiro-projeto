@@ -1,4 +1,4 @@
-<h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
+<h1>Desafio de projeto do Felipe Prates: Mario Kart.JS</h1>
 
   <table>
         <tr>
@@ -101,3 +101,5 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+![alt text](/docs/resultado.png)
