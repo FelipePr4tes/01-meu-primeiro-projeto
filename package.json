@@ -1,12 +1,23 @@
 {
   "name": "meu-primeiro-projeto-mario",
   "version": "1.0.0",
+  "description": "Simulação lógica de corridas inspirada em Mario Kart, com foco em aprendizado de programação.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-},
-  "keywords": [],
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "keywords": ["Mario Kart", "simulação", "aprendizado", "JavaScript"],
   "author": "Felipe Prates",
   "license": "ISC",
-  "description": ""
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FelipePr4tes/meu-primeiro-projeto-mario.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FelipePr4tes/meu-primeiro-projeto-mario/issues"
+  },
+  "homepage": "https://github.com/FelipePr4tes/meu-primeiro-projeto-mario#readme"
 }
